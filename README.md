@@ -1,7 +1,5 @@
-# F21BC_CW2
-Done by Favour Adetunji and Julius Oghenekaro
-
-**This is a submission for the Biologically Inspired Computation Coureswork2 **
+# Particle Swarm Algorithm and Genetic Algorithm
+This is an implementation and testing of a particle swarm algorithm and a genetic algorithm from scratch. Both algorithms are tested against five benchmark functions from the CEC 2005 benchmark functions suite. Variations from normal implementation of both algorithms are explained in the comments in the code.
 
 ## Environment
 **=>** Note : This project was done using python3 in a python venv environment. The OS used was WSL(Windows Subsystem for linux).
